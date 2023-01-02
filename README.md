@@ -16,3 +16,8 @@ https://documenter.getpostman.com/view/16459366/2s8Z711CZg#51048e3e-d683-4763-84
 https://documenter.getpostman.com/view/16459366/2s8Z711CZj
 
 
+
+**Apply of file upload concept(single,multiple)**
+
+
+https://documenter.getpostman.com/view/16459366/2s8Z711CZk
