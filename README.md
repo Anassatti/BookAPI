@@ -5,6 +5,7 @@ This repo is for test Library API using Postman, which I applied below HTTP meth
 3. PATCH
 4. Delete
 
+ applied different kinds of validations such as status code.
 
 **Postman Documentation published on the below link**
 
